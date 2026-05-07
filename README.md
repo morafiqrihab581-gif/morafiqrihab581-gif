@@ -1,17 +1,16 @@
 ### 👋 Hi, I'm RIHAB !
 
+🌐 Full Stack Web Developer • Laravel • React • MERN Stack
 
-☕ Java Developer • Backend Development • Spring Boot • APIs
+💻 I'm passionate about building modern, scalable, and responsive web applications using JavaScript technologies and Laravel. From developing RESTful APIs to creating dynamic frontend interfaces, I enjoy transforming ideas into real-world applications.
 
-💻 I'm passionate about building robust and scalable backend applications using Java and modern frameworks. From designing RESTful APIs to developing full backend systems, I enjoy turning ideas into efficient and maintainable code.
+⚙️ I focus on writing clean, maintainable code and continuously improving my skills in full stack development, backend architecture, and frontend performance optimization.
 
-⚙️ I focus on writing clean, well-structured code and continuously improving my skills in backend architecture, performance optimization, and system design.
+💡 With a strong interest in software engineering and web technologies, I aim to create efficient applications that deliver seamless user experiences.
 
-💡 With a strong interest in software engineering, I aim to build reliable applications that solve real-world problems and provide seamless user experiences.
+🏫 I studied Computer Science at GROUPE ISGA, Casablanca, Morocco
 
-🏫 I studied Computer Science at GROUPE ISGA , Casablanca, Morocco 
-
-📚 I am currently expanding my skills in **Spring Boot, Microservices, and System Design**, while strengthening my knowledge in object-oriented programming and backend development.
+📚 I am currently expanding my skills in **React Ecosystem, Node.js, Laravel, and System Design**, while strengthening my knowledge in full stack web development and modern JavaScript frameworks.
 
 🚀 Always improving, always learning, and always building.
 
@@ -19,26 +18,34 @@
 
 ### 💻 TECH STACKS
 
+**Frontend Development**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+---
+
 **Backend Development**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge\&logo=hibernate)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
 ---
 
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 ---
 
 **Tools & Development**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge\&logo=intellij-idea)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
@@ -46,14 +53,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-
----
-
-### 🚀 PROJECTS
-
-* 🔹 **REST API with Spring Boot** – CRUD application with database integration
-* 🔹 **Java Backend System** – Scalable backend architecture project
-* 🔹 **Mini Projects** – Practice projects in Java & OOP
 
 ---
 
