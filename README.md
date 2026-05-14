@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm RIHAB !
 
-🌐 Full Stack Web Developer • Laravel • React • MERN Stack
+🌐 Full Stack Web Developer • Laravel • C# • .NET • React • MERN Stack
 
-💻 I'm passionate about building modern, scalable, and responsive web applications using JavaScript technologies and Laravel. From developing RESTful APIs to creating dynamic frontend interfaces, I enjoy transforming ideas into real-world applications.
+💻 I'm passionate about building modern, scalable, and responsive web applications using Laravel, .NET technologies, and JavaScript frameworks. From developing RESTful APIs to creating dynamic frontend interfaces, I enjoy transforming ideas into real-world applications.
 
 ⚙️ I focus on writing clean, maintainable code and continuously improving my skills in full stack development, backend architecture, and frontend performance optimization.
 
@@ -10,7 +10,7 @@
 
 🏫 I studied Computer Science at GROUPE ISGA, Casablanca, Morocco
 
-📚 I am currently expanding my skills in **React Ecosystem, Node.js, Laravel, and System Design**, while strengthening my knowledge in full stack web development and modern JavaScript frameworks.
+📚 I am currently expanding my skills in **C#, .NET (ASP.NET Core), Laravel, React, Node.js, and System Design**, while strengthening my knowledge in APIs, databases, and modern software architecture.
 
 🚀 Always improving, always learning, and always building.
 
@@ -30,8 +30,9 @@
 **Backend Development**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge\&logo=dotnet\&logoColor=white)
 
 ---
 
@@ -45,6 +46,7 @@
 **Tools & Development**
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
@@ -65,3 +67,4 @@
 ---
 
 ⭐ *"Code. Learn. Build. Repeat."*
+
